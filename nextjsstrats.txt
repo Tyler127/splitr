@@ -3,6 +3,9 @@ step 1: have node installed version 18+
 Creating next.js project:
     npx create-next-app@latest
 
+NPM install:
+    npm install
+
 Running Dev Server:
     npm run dev 
 
@@ -51,8 +54,6 @@ Routing Fundamentals:
         page.js or nested layout.js
 
 
-
-
 Defining Routes:
     - Folders are used as URL segments.
 
@@ -77,6 +78,13 @@ Defining Routes:
     - layout.js files are UI shared between routes
 
     - page.js files are UI unique to a route 
+
+
+Dynamic Routes:
+    - Create a folder with the name in brackets
+
+    - 
+
 
 
 Pages and Layouts:
